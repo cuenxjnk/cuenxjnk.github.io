@@ -3,20 +3,20 @@
   <a href="https://www.facebook.com/quyen.295?mibextid=ZbWKwL">Facebook</a> |
   <a href="https://instagram.com/bibocate?igshid=MzNlNGNkZWQ4Mg==">Instagram</a> |
   <a href="http://zaloapp.com/qr/p/1m1xnh01bwnw2">Zalo</a><br><br>
-  <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
+  <img src="https://raw.githubusercontent.com/cuenxjnk/cuenxjnk.github.io/main/demo/IMG_20230703_230554.jpg" style="width: 80%">
 </p>
 
 ##   
 
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/JuEeGweHrb
+- Email: <quyenhoang03.th@protonmail.com>
+- Facebook: https://www.facebook.com/quyen.295
 
 ##  
 
 ### 📜 License & Warning
 - Make for education propose only !
-- Under licensed MIT MIT License.
+- Copyright by KanekiWeb.
 
 ##  
 
