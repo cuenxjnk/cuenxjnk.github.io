@@ -9,7 +9,7 @@
 ##   
 
 ### 🧰 Support
-- Email: <quyenhoang03.th@protonmail.com>
+- Email: <quyenhoang03.th@gmail.com>
 - Facebook: https://www.facebook.com/quyen.295
 
 ##  
