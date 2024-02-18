@@ -3,7 +3,7 @@
   <a href="https://www.facebook.com/quyen.295?mibextid=ZbWKwL">Facebook</a> |
   <a href="https://instagram.com/bibocate?igshid=MzNlNGNkZWQ4Mg==">Instagram</a> |
   <a href="http://zaloapp.com/qr/p/1m1xnh01bwnw2">Zalo</a><br><br>
-  <img src="https://raw.githubusercontent.com/cuenxjnk/cuenxjnk.github.io/main/demo/IMG_20230703_230554.jpg" style="width: 120%">
+  <img src="demo/readme.gif" style="width: 120%">
 </p>
 
 ##   
