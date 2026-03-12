@@ -271,20 +271,22 @@ header nav .header_logo img:hover {
 
 /* ================== Responsive ================== */
 @media only screen and (max-width: 630px) {
-    header nav {
-        flex-direction: column;
-    }
-    header nav .header_logo {
-        margin-bottom: 20px;
-    }
+    /* ... giữ nguyên phần header nav nếu bạn chưa xoá hẳn ... */
+    
     .main {
         width: 90%;
         padding: 30px 20px;
     }
+    
+    /* Chỉnh lại dòng giới thiệu cho mobile */
     .main p {
-        font-size: 12px;
-        /* Nếu text bị rớt dòng trên mobile, bỏ dòng này ra: */
-        /* white-space: normal; animation: none; border: none; */
+        font-size: 13px; /* Thu nhỏ chữ một chút */
+        white-space: normal; /* Cho phép chữ tự động rớt xuống dòng */
+        animation: normal; /* Tắt hiệu ứng gõ chữ trên điện thoại */
+        border-right: normal; /* Tắt vạch con trỏ nhấp nháy */
+        width: auto; /* Trả lại chiều rộng tự nhiên */
+        line-height: 1.6; /* Tăng khoảng cách giữa các dòng cho dễ đọc */
+        padding: 0 10px; /* Thêm một chút lề hai bên để chữ không sát mép */
     }
 }
 
